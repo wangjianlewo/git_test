@@ -6,4 +6,6 @@
 4
 6:本地commite,不push
 6.1:本地commite,不push
+8:远程修改
+
 7:本地修改
